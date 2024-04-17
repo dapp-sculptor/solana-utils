@@ -144,10 +144,10 @@
   dependencies:
     buffer "^6.0.3"
 
-"@solana/web3.js@^1.32.0", "@solana/web3.js@^1.91.2":
-  version "1.91.2"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.91.2.tgz#a5cb46a90076faaa284856e24464cac2b68fdc0c"
-  integrity sha512-WXPl5VXtfNKWM2RkGj7mvX6dKcZURDKe1lWBFAt/RqDBI9Rjr9hr7Y+U+yz2+TyViMmoinfJVlkS4gk2FPDG/g==
+"@solana/web3.js@^1.32.0", "@solana/web3.js@^1.91.3":
+  version "1.91.3"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.91.3.tgz#25b8b9dfd88bfa6441c0c02bbdb67abd32bfa0f4"
+  integrity sha512-Z6FZyW8SWm7RXW5ZSyr1kmpR+eH/F4DhgxV4WPaq5AbAAMnCiiGm36Jb7ACHFXtWzq1a24hBkJ1wnVANjsmdPA==
   dependencies:
     "@babel/runtime" "^7.23.4"
     "@noble/curves" "^1.2.0"
